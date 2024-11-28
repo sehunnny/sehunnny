@@ -1,0 +1,18 @@
+.container {
+    background-color: white;
+    text-align: center;
+    margin-top: 10px;
+    position: absolute;
+    top: 200px;
+    right: 30%;
+}
+.transport {
+    position:absolute;
+    top: 600px;
+
+    text-align: center;
+}
+.write-revierw-button {
+    position: absolute;
+    top: -220px;
+}
